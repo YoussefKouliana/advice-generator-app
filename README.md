@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** [https://github.com/youssefkouliana/advice-generator-app](https://github.com/youssefkouliana/advice-generator-app)  
+- **Solution URL:** [https://github.com/youssefkouliana/advice-generator-app](https://github.com/youssefkouliana/advice-generator-app)
+- **Live App URL:** https://youssefkouliana.github.io/advice-generator-app/
 ## My process
 
 ### Built with
