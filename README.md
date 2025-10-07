@@ -1,7 +1,3 @@
-# Frontend Mentor - Advice generator app solution
-
-This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).  
-Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -34,8 +30,6 @@ Users should be able to:
 ### Links
 
 - **Solution URL:** [https://github.com/youssefkouliana/advice-generator-app](https://github.com/youssefkouliana/advice-generator-app)  
-- **Live Site URL:** [https://advice-generator-youssef.vercel.app](https://advice-generator-youssef.vercel.app) <!-- replace with your actual deployed link -->
-
 ## My process
 
 ### Built with
